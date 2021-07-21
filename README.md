@@ -46,7 +46,7 @@ pygh
  └─xxxxx.py（该文件）
 ```
 ```
-from pygrip.art import wordcloud
+from pygh.art import wordcloud
 
 # “txt=”后面填您要绘制词云的txt文件
 a = wordcloud(txt='xxxxx.txt')
